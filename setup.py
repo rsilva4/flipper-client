@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 requirements = [
     "cachetools~=4.2.1",
     "python-consul~=1.0",
-    "redis>=2.10.6,<4",
+    "redis>=2.10.6,<4.2",
     "thrift~=0.13",
     "boto3~=1.9",
     "pyee~=6.0",
